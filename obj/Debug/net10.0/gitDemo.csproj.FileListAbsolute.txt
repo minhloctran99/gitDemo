@@ -1,0 +1,14 @@
+C:\IT Study\Softwave Dev\dev\gitDemo\bin\Debug\net10.0\gitDemo.exe
+C:\IT Study\Softwave Dev\dev\gitDemo\bin\Debug\net10.0\gitDemo.deps.json
+C:\IT Study\Softwave Dev\dev\gitDemo\bin\Debug\net10.0\gitDemo.runtimeconfig.json
+C:\IT Study\Softwave Dev\dev\gitDemo\bin\Debug\net10.0\gitDemo.dll
+C:\IT Study\Softwave Dev\dev\gitDemo\bin\Debug\net10.0\gitDemo.pdb
+C:\IT Study\Softwave Dev\dev\gitDemo\obj\Debug\net10.0\gitDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\IT Study\Softwave Dev\dev\gitDemo\obj\Debug\net10.0\gitDemo.AssemblyInfoInputs.cache
+C:\IT Study\Softwave Dev\dev\gitDemo\obj\Debug\net10.0\gitDemo.AssemblyInfo.cs
+C:\IT Study\Softwave Dev\dev\gitDemo\obj\Debug\net10.0\gitDemo.csproj.CoreCompileInputs.cache
+C:\IT Study\Softwave Dev\dev\gitDemo\obj\Debug\net10.0\gitDemo.dll
+C:\IT Study\Softwave Dev\dev\gitDemo\obj\Debug\net10.0\refint\gitDemo.dll
+C:\IT Study\Softwave Dev\dev\gitDemo\obj\Debug\net10.0\gitDemo.pdb
+C:\IT Study\Softwave Dev\dev\gitDemo\obj\Debug\net10.0\gitDemo.genruntimeconfig.cache
+C:\IT Study\Softwave Dev\dev\gitDemo\obj\Debug\net10.0\ref\gitDemo.dll
